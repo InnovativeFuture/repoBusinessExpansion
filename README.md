@@ -3,4 +3,8 @@ repoBusinessExpansion
 
 repo description
 
-if we write shit here. WIll it become visible
+Intro:
+Here can be found everything regarding to business expansion project.
+
+Progress:
+Documentation env. Github - done
